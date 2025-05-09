@@ -8,6 +8,16 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApporpriateYak&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApporpriateYak&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</div>
+
+---
+
+
 <h2 align="center">📜 Quote of the Day</h2>
 
 <p align="center">
