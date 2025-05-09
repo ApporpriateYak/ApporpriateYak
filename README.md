@@ -1,3 +1,9 @@
 <h1 align="center">🌟 Welcome to AppropriateYak's GitHub Profile 🌟</h1>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
+---
+
+<p align="center">
+  <img src="22.png" alt="Custom Banner" width="30%" />
+</p>
+
+---
